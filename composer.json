@@ -1,5 +1,5 @@
 {
-    "name": "offline/oc-site-search-plugin",
+    "name": "offline/sitesearch-plugin",
     "description": "This plugin adds global search capabiliies to OctoberCMS.",
     "type": "october-plugin",
     "license": "MIT",
